@@ -10,6 +10,7 @@
       <class name="testcases.TC_003_NewCustomerTest">
         <methods>
           <include name="tearDown"/>
+          <include name="verifyNewCustomerFields"/>
           <include name="navigateToNewCustomer"/>
           <include name="setup"/>
         </methods>
